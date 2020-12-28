@@ -1,1 +1,3 @@
 Just another commit in the new-branch
+
+This file was modified
