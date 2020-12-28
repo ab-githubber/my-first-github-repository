@@ -3,3 +3,5 @@ This line was replaced in feature-2 branch
 Just another commit in the new-branch
 
 This line was added in feature-2 branch
+
+Adding another change to push changes to remote repo
